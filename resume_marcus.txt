@@ -1,0 +1,27 @@
+# MARCUS TEO
+Singapore | marcus.teo@simplemail.com | +65 9111 1111 | linkedin.com/in/marcusteo-qaxczss
+
+## PROFESSIONAL SUMMARY
+Detail-oriented IT Support & Quality Assurance Analyst with 1 year of professional experience in software manual testing and user support. Possesses a foundational academic background in Information Technology. Familiar with basic programming logic in Python and HTML. Highly motivated to learn full-stack web development and AI technologies.
+
+## TECHNICAL SKILLS
+* **Software Testing:** Manual Functional Testing, Test Case Creation, Bug Tracking (Jira), User Acceptance Testing (UAT)
+* **Programming & Web Basics:** HTML, CSS, Python (Basic scripting/academic level)
+* **IT Support & Systems:** Windows OS, Active Directory, Hardware Troubleshooting, Microsoft Office
+* **Methodologies:** Waterfall, Basic Agile Concepts
+
+## PROFESSIONAL EXPERIENCE
+
+### QA & Support Analyst | Regional Tech Support Services
+*Nov 2025 – Present | Singapore*
+* Executed manual test cases for enterprise desktop software applications, logging defects in Jira for developer review.
+* Assisted end-users with software installation, account lockouts, and basic workstation troubleshooting.
+* Prepared user training documentation and step-by-step guides for system deployment.
+
+### IT Helpdesk Intern | Enterprise Solutions Pte Ltd
+*May 2025 – Oct 2025 | Singapore*
+* Handled incoming IT ticket requests, reset user passwords, and maintained IT inventory records.
+* Performed basic web content edits on internal company intranet pages.
+
+## EDUCATION
+* **Bachelor of Science in Information Technology** | Local Private Institute (Graduated 2025)

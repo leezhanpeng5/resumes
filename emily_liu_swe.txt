@@ -1,0 +1,27 @@
+# EMILY LIU
+Singapore | emily.liu@email.com | +65 9876 5432
+
+## PROFESSIONAL SUMMARY
+Creative Front-End Web Developer with 2.5 years of experience focusing on visual web design, user interface layout, and content management systems (CMS). Proficient in HTML5, CSS3, SASS, and basic JavaScript, with a strong emphasis on converting graphic designs into responsive web templates. Seeking to transition into software engineering roles in the public sector.
+
+## TECHNICAL SKILLS
+* **Web Design & Styling:** HTML5, CSS3, SASS, Bootstrap, Tailwind CSS, WordPress, jQuery
+* **JavaScript Frameworks:** JavaScript (ES5/ES6), React.js (Basic/Component-level only)
+* **Design Tools:** Figma, Adobe XD, Photoshop, Illustrator
+* **Methodologies & Tools:** Git (Basic), Webpack, Responsive Design
+
+## PROFESSIONAL EXPERIENCE
+
+### Web UI Developer | Creative Marketing Agency
+*Aug 2024 – Present | Singapore*
+* Built landing pages and promotional marketing sites using HTML, SASS, and WordPress for small-to-medium enterprise (SME) clients.
+* Created static React.js presentation components based on Figma design comps provided by the creative team.
+* Managed client content updates and handled browser compatibility testing across desktop and mobile browsers.
+
+### Junior Web Designer / Developer | Local Digital Media Studio
+*Jan 2024 – Jul 2024 | Singapore*
+* Customised CSS styles and jQuery animations for e-commerce sites running on Shopify and WordPress.
+* Optimized images and media assets to improve page load speed scores.
+
+## EDUCATION
+* **Diploma in Web & Digital Media Design** | Nanyang Polytechnic

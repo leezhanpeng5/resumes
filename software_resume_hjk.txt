@@ -1,0 +1,28 @@
+# HO JIN KIND
+Singapore | hojinkind@hotmail.com | +65 9999 9999 | linkedin.com/in/hojinkind-tech
+
+## PROFESSIONAL SUMMARY
+Backend-focused Software Engineer with 3.5 years of experience developing cloud-native applications, microservices, and AI integrations. Proficient in Python, Node.js, PostgreSQL, and cloud deployments on Azure and GCP. Experienced in Docker containerization and CI/CD automation. Eager to leverage strong system architecture skills and growing React.js expertise to deliver impactful AI tools for national safety.
+
+## TECHNICAL SKILLS
+* **Back-End:** Python (FastAPI, Django), Node.js, Express.js, REST APIs, GraphQL
+* **Front-End:** HTML5, CSS3, JavaScript, React.js (Intermediate)
+* **Databases & Cloud:** PostgreSQL, Redis, MS Azure, GCP, Docker, Kubernetes
+* **Tools & Practices:** Git, CI/CD pipelines, PyTest, Agile Kanban
+
+## PROFESSIONAL EXPERIENCE
+
+### Backend / AI Integration Engineer | AI Solutions Startup
+*Jan 2023 – Present | Singapore*
+* Designed scalable Python backend services to serve LLM and computer vision model outputs to front-end clients in real time.
+* Deployed containerized applications using Docker on MS Azure, managing microservice orchestration.
+* Built full CI/CD deployment pipelines using GitHub Actions, enabling automated testing and zero-downtime releases.
+* Developed internal admin interfaces using basic React.js and HTML/CSS.
+
+### Software Engineer | System Integrators Pte Ltd
+*Jul 2021 – Dec 2022 | Singapore*
+* Maintained database schemas, writing complex PostgreSQL queries and optimizing API response times by 30%.
+* Conducted troubleshooting and root-cause analysis for production bug fixes across distributed services.
+
+## EDUCATION
+* **Bachelor of Engineering (Computer Engineering)** | Nanyang Technological University (NTU)

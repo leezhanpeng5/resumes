@@ -1,0 +1,30 @@
+# BENJAMIN NG
+Singapore | benzwngawspractice@gmail.com | +65 9123 4444 | linkedin.com/in/benjamin-ng-dev
+
+## PROFESSIONAL SUMMARY
+Results-driven Lead Full-Stack Software Engineer with 6+ years of experience designing and deploying scalable, secure web applications across public sector and cloud environments. Proven track record in integrating AI/ML services into reactive React.js and Python microservice backends on AWS and Azure. Experienced in leading cross-functional Agile teams (UI/UX, QA, DevOps, AI Engineers) to deliver mission-critical solutions in compliance with government cybersecurity standards.
+
+## TECHNICAL SKILLS
+* **Languages & Frameworks:** Python (FastAPI, Flask, Django), JavaScript/TypeScript, React.js, Node.js, HTML5/CSS3
+* **Cloud & Infrastructure:** AWS (EC2, S3, Lambda), MS Azure, Docker, Kubernetes, CI/CD (GitLab CI, GitHub Actions)
+* **Databases & Tools:** PostgreSQL, MongoDB, Redis, RESTful APIs, Jest, PyTest, Agile/Scrum
+* **Domain & Security:** Government Cloud (GCC), Secure Coding Standards, AI Model API Integration
+
+## PROFESSIONAL EXPERIENCE
+
+### Senior Software Engineer | Defence / Public Safety Tech Agency
+*Jan 2022 – Present | Singapore*
+* Led a 6-engineer team in building and deploying a real-time situational awareness dashboard used by frontline operational officers.
+* Developed responsive React.js front-ends and high-throughput Python (FastAPI) backends hosted on AWS Cloud.
+* Integrated computer vision and NLP AI model endpoints into backend workflows, reducing manual report processing times by 40%.
+* Enforced DevSecOps practices, building CI/CD pipelines with automated testing (Jest, PyTest) and containerization via Docker & Kubernetes.
+* Collaborated closely with Product Managers, UX Designers, and QA teams to present live product demos to senior agency stakeholders.
+
+### Full-Stack Software Engineer | Enterprise Cloud Solutions
+*Jul 2018 – Dec 2021 | Singapore*
+* Architected RESTful APIs and Node.js microservices handling 50k+ daily requests with 99.9% uptime.
+* Migrated legacy web applications to modern React.js architectures deployed on Azure App Services.
+* Established secure coding guidelines and automated static code analysis scans in CI/CD pipelines.
+
+## EDUCATION
+* **Bachelor of Computing in Computer Science** | National University of Singapore (NUS)

@@ -1,0 +1,28 @@
+# LEE ZHAN PENG
+Singapore | leezhanpeng5@gmail.com | +65 9123 4567 | github.com/zhanpengzhanpeng
+
+## PROFESSIONAL SUMMARY
+Full-Stack Software Engineer with 4.5 years of experience engineering high-performance web applications using React.js, Node.js, and Python. Adept at building reactive front-ends, optimizing SQL/NoSQL databases, and managing containerized applications with Docker and Kubernetes on AWS. Strong communicator accustomed to collaborating with AI research teams and product stakeholders in fast-paced Agile environments.
+
+## TECHNICAL SKILLS
+* **Front-End:** React.js, Redux, JavaScript (ES6+), TypeScript, HTML5, CSS3/Tailwind
+* **Back-End:** Python (Flask), Node.js, Express.js, PostgreSQL, MongoDB
+* **DevOps & Cloud:** AWS, Docker, Kubernetes, CI/CD, Automated Testing (Cypress, Jest)
+* **Methodologies:** Agile SCRUM, Test-Driven Development (TDD)
+
+## PROFESSIONAL EXPERIENCE
+
+### Full-Stack Engineer | FinTech Innovations
+*Mar 2022 – Present | Singapore*
+* Architected end-to-end features for a data analytics platform serving 100k+ monthly active users using React and Python.
+* Partnered with internal Data Science teams to incorporate ML predictive models into core user interfaces via RESTful endpoints.
+* Engineered containerized deployment workflows using Docker and Kubernetes on AWS, cutting staging build times by 35%.
+* Authored automated integration and unit test scripts, achieving 85%+ test coverage across backend services.
+
+### Software Engineer | E-Commerce Platform
+*Oct 2019 – Feb 2022 | Singapore*
+* Developed dynamic front-end components using React.js and CSS Modules, improving mobile response times by 25%.
+* Built microservices using Node.js/Express and integrated secure payment gateway APIs.
+
+## EDUCATION
+* **Bachelor of Science in Information Systems** | Singapore Management University (SMU)
